@@ -17,7 +17,5 @@ abstract public class PostCard {
     abstract void printImage();
 
     abstract void printFooter();
-
-
 }
 

@@ -13,8 +13,5 @@ public class Main {
 
         // Call which card you want here
         christmas.print();
-
-
-
     }
 }
